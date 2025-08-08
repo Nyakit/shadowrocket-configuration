@@ -26,3 +26,10 @@ DOMAIN-SUFFIX,instagram.fvno2-1.fna.fbcdn.net
 DOMAIN-SUFFIX,scontent.cdninstagram.com
 DOMAIN-SUFFIX,static.cdninstagram.com
 DOMAIN-SUFFIX,cdninstagram.com
+
+#Facebook
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fburl.com
