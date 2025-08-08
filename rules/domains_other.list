@@ -2,3 +2,27 @@
 # REPO: https://github.com/Nyakit/shadowrocket-configuration
 
 DOMAIN-SUFFIX,prank.show
+
+#OpenAi
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,tcr9i.chat.openai.com
+DOMAIN-SUFFIX,api.openai.com
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,ab.chatgpt.com
+
+#Rutracker
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.ru
+
+#Instagram
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instagram.fhrk1-1.fna.fbcdn.net
+DOMAIN-SUFFIX,instagram.fkun2-1.fna.fbcdn.net
+DOMAIN-SUFFIX,instagram.frix7-1.fna.fbcdn.net
+DOMAIN-SUFFIX,instagram.fvno2-1.fna.fbcdn.net
+DOMAIN-SUFFIX,scontent.cdninstagram.com
+DOMAIN-SUFFIX,static.cdninstagram.com
+DOMAIN-SUFFIX,cdninstagram.com
